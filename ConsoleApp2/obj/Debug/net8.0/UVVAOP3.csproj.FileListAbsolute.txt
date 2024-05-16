@@ -1,0 +1,14 @@
+C:\Users\filipe\Desktop\Gestão da qualidade de software\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\UVVAOP3.exe
+C:\Users\filipe\Desktop\Gestão da qualidade de software\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\UVVAOP3.deps.json
+C:\Users\filipe\Desktop\Gestão da qualidade de software\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\UVVAOP3.runtimeconfig.json
+C:\Users\filipe\Desktop\Gestão da qualidade de software\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\UVVAOP3.dll
+C:\Users\filipe\Desktop\Gestão da qualidade de software\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\UVVAOP3.pdb
+C:\Users\filipe\Desktop\Gestão da qualidade de software\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\UVVAOP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filipe\Desktop\Gestão da qualidade de software\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\UVVAOP3.AssemblyInfoInputs.cache
+C:\Users\filipe\Desktop\Gestão da qualidade de software\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\UVVAOP3.AssemblyInfo.cs
+C:\Users\filipe\Desktop\Gestão da qualidade de software\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\UVVAOP3.csproj.CoreCompileInputs.cache
+C:\Users\filipe\Desktop\Gestão da qualidade de software\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\UVVAOP3.dll
+C:\Users\filipe\Desktop\Gestão da qualidade de software\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\refint\UVVAOP3.dll
+C:\Users\filipe\Desktop\Gestão da qualidade de software\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\UVVAOP3.pdb
+C:\Users\filipe\Desktop\Gestão da qualidade de software\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\UVVAOP3.genruntimeconfig.cache
+C:\Users\filipe\Desktop\Gestão da qualidade de software\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ref\UVVAOP3.dll
